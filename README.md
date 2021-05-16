@@ -20,8 +20,8 @@ The data is taken from Kaggle and consists of 200 datasets representing separate
 # Model:
 After comparing auc-roc curve of mutiple classification models, we decided to use XGBoost.
 We used GridSearchCV for hyperparameter tuning and obtained: 
-## roc_auc = 0.88
-## 	F1 score = 0.86
+#### roc_auc = 0.88
+#### 	F1 score = 0.86
 
 
 # Feature Aggregation:
